@@ -1,2 +1,2 @@
-email :
-gitID :
+email :heayoon0623@naver.com
+gitID :hailey_halo
